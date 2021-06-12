@@ -1,0 +1,12 @@
+https://www.cnblogs.com/zmzzr47/p/14328907.html
+
+axios
+https://www.kancloud.cn/yunye/axios/234845
+
+路由守卫1
+https://www.cnblogs.com/apollo1616/articles/10048852.html
+
+https://www.cnblogs.com/lightice/p/13410200.html
+
+store.js
+https://www.jb51.net/article/173658.htm
