@@ -1,0 +1,13 @@
+.van-tabbar-item--active{
+  color: #005dc6;
+}
+.title{
+  text-align: center;
+  clear: both;
+  width: 100%;
+  color: #005dc6;
+  font-size: 17px;
+  font-weight: bold;
+  border-top: 1px solid dimgrey;
+  padding-top: 10px;
+}
